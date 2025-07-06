@@ -9,7 +9,7 @@ features:
 - Player shooting
 - Score tracking
 
-Demo: 
+Demo: https://narvs1999.github.io/games_spaceinvaders/
 
 ![Demo Image](demo-image.png)
 
